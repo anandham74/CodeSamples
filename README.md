@@ -1,2 +1,2 @@
 # CodeTests
-Coding Tests
+Coding Samples
